@@ -37,3 +37,4 @@ console.log(newGenerator.next("fgg"));
 console.log(newGenerator.next());
 console.log(newGenerator.next("jhhj"));
 console.log(newGenerator.next());
+console.log(newGenerator.next());
